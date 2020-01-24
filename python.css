@@ -1,0 +1,249 @@
+
+   body {background-color:  #245076;
+	}
+	#cabecera{
+		width: auto;
+		height: auto;
+	}
+   #imagen{
+	background-color:  #245076;
+	width: 350px;
+	height: auto;
+	display: inline-block;
+	padding-right: 380px;
+   }
+   #tamaño_imagen{
+	background-color:  #245076;
+	width: 300px;
+	height: auto;
+	display: inline-block;
+	display: top;
+	margin: 10px 10px 10px 10px;
+   }
+   
+   
+	#buscador{
+		width: auto;
+		height: auto;
+		border-radius: 12px;
+		background-color:  #444444;
+		border: 1px solid black;
+		padding: 10px;
+		text-align: center;
+		text-decoration: none;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+		display: inline-block;
+		box-shadow: 2px 2px rgb(44, 44, 44);
+		vertical-align: right;
+	}
+	#buscador{
+		text-align: center;
+		width: 20%;
+		display: inline-block;
+		vertical-align: top;
+		background-color: rgb(68, 68, 68);
+		height: 30px;
+		border-radius: 20px;
+		padding: 20px;
+		margin-top: 30px;
+	
+	}
+	.buscar button{
+		height: 30px;
+		background-color: steelblue;
+		color: white;
+		border-radius: 5px;
+	}
+   .button4 {
+	border-radius: 12px;
+	background-color: #245076; /* Green */
+	border: 1px solid black;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	display: inline-block;
+	}
+
+	#boton{
+		color: #fcfcfc;
+		padding: 10px 0px 10px 80px;
+		display: inline-block;
+	
+	}
+
+	
+	  #menu li {
+		display: inline;
+	  }
+	#menu{
+		list-style-type: none; /*This gets rid of the bullets.*/
+		border-radius: 10px;
+		background-color:  #487fad;
+		width: 80%;
+		height: 59px;
+		margin: auto;
+		text-align: center;
+		color: #fcfcfc; 
+	}
+	#lis{
+		background-color:  #487fad;
+		width: 250px;
+		height: 50px;
+		display: inline-block;
+		margin-right: 30px;
+		margin-left: 30px;
+		margin-top: 30px;
+		font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+		font-size: 25px;
+	}
+
+	#parrafo{
+		margin-left:5px;
+		margin-right:5px;
+		padding: 0px 0px 60px 0px;
+	  }
+	  #lista{
+		width: 20%; 
+		height: auto;
+		display: inline-block;
+		vertical-align: top;
+		padding-left: 10%;
+	  }
+
+	  ul{
+	
+		  display: inline-block;
+		  color: #fcfcfc;
+		  text-align: center;
+		  text-decoration: underline;
+		  font-size: 20px;
+		 
+	  }
+#parrafo_central{
+	display: inline-block;
+	width: 60%;
+	height: auto;
+	padding-left: 20px;
+}
+#texto1{
+	display: inline-block;
+	color: #fcfcfc;
+	text-align: center;
+	font-size: 20px;
+	margin-top: 20px;
+	width: 90%;
+}
+#texto2{
+	display: inline-block;
+	text-align: center;
+	color:#fdd32f;
+	font-size: 30px;
+	width: 100%;
+	height: auto;
+	margin-top: 20px;
+
+}
+#texto3{
+	display: inline-block;
+	color: #fcfcfc;
+	width: 100%;
+	height: auto;
+	margin-top: 20px;
+	text-align: center;
+	text-align: center;
+	font-size: 20px;
+}
+p {
+    display: block;
+    margin-block-start: 5px;
+	margin-block-end: 5px;
+	text-align: center;
+	font-size: 25px;
+  
+}
+
+/*-----inferior----s*/
+#inferior{
+background-color: #ffffff;
+padding-left: 20%;
+padding-right: 20%;
+}
+#bloques{
+	background-color:#ffffff;
+	width: 285px;
+	height: auto;
+	display: inline-block;
+	margin-left:  20px;
+	margin-right:  60px;
+	padding-top: 20px;
+	vertical-align: top;
+  }
+
+#final{
+	background-color: #265781;
+}
+
+#linea_bloque{
+	background-color: #73a7d5;
+	width: auto;
+	height: 5px;
+	
+}
+
+#lista_bloque {
+	color: #89b5db;
+}
+
+#titulo_bloque h4{
+	display: block;
+    margin-block-start: 5px;
+	margin-block-end: 5px;
+	text-align: center;
+	font-size: 25px;
+}
+#texto_bloque{
+	display: block;
+    margin-block-start: 5px;
+	margin-block-end: 5px;
+	text-align: center;
+	font-size: 18px;
+	
+}
+
+
+#lista_bloque p {
+	width: 270px;
+	height: auto;
+    display: block;
+    margin-block-start: 5px;
+	margin-block-end: 5px;
+	text-align: center;
+	font-size: 18px;
+	display: inline-block;
+  
+}
+azul{
+	color: #89b5db;
+	font-size: 15px;
+}
+.footer{
+    text-align: center;
+    background-image: linear-gradient(to bottom,#245177 , #3274ab);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footer h3{
+    display: inline-block;
+    margin-left: 10px;
+    color: #70a4d1;
+    margin-right: 10px;    
+}
+.footer h5{
+    color: #70a4d1;
+}
